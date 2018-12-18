@@ -1,0 +1,69 @@
+{
+  "gitbook": "3.2.3",
+  "title": "qihuohub",
+  "description": "期货没有新鲜事",
+  "author": "yoocky",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {}
+  },
+  "plugins": [
+    "github",
+    "donate",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "-highlight",
+    "prism"
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": false,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": false,
+      "whatsapp": false,
+      "all": [
+        "weibo",
+        "qq",
+        "qzone",
+        "google",
+        "douban"
+      ]
+    },
+    "github": {
+      "url": "https://github.com/yoocky"
+    },
+    "donate": {
+      "wechat": "http://7q5c2h.com1.z0.glb.clouddn.com/wechatpay.JPG",
+      "title": "",
+      "button": "赏",
+      "wechatText": "微信打赏"
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "serif",
+      "size": 2
+    },
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-tomorrow.css"
+      ]
+    }
+  }
+}
